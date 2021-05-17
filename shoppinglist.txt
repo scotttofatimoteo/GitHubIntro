@@ -1,0 +1,6 @@
+shopping:
+
+bread
+apple
+banana
+milk
